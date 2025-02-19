@@ -1,5 +1,4 @@
-< h1 align="center"GOKU-BLACK-BOT-MD-LITE</h1>
-
+## Goku-Black-Bot-MD-Lite
  <img src= "https://files.catbox.moe/om9jai.jpg">
     </p>
 
