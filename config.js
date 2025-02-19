@@ -17,14 +17,14 @@ global.confirmCode = ''
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-  ['595992667005', 'ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜', true],
+  ['595992667005', 'Ivan 𓈒ㅤׂㅤ𐙚  ࣪ ⭒', true],
   ['595992809980']
 ];
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.mods = ['50488198573', '584120515006', '573004828388', '573154062343', '5219541690054']
-global.suittag = ['584120346669'] //Cambiar a tu número si vas a usar la base.
+global.mods = ['59599266705', '', '', '', '']
+global.suittag = ['595992667005'] //Cambiar a tu número si vas a usar la base.
 global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -32,13 +32,13 @@ global.prems = []
 global.libreria = 'Baileys'
 global.baileys = 'V 6.7.9' 
 global.languaje = 'Español'
-global.vs = '2.2.0'
-global.vsJB = '5.0'
-global.nameqr = 'YukiBot-MD'
-global.namebot = '✿◟Yυƙι-Sυσυ-Bσƚ◞✿'
+global.vs = '1.0.0'
+global.vsJB = '1.0'
+global.nameqr = 'Goku-Black-Bot-MD-Lite'
+global.namebot = 'Goku-Black-Bot-MD-Lite'
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
-global.yukiJadibts = true
+global.blackJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -52,7 +52,7 @@ global.etiqueta = 'ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.moneda = 'Yenes'
+global.moneda = 'Ki ⚡'
 global.welcom1 = '❍ Edita Con #setwelcome'
 global.welcom2 = '❍ Edita Con #setbye'
 global.banner = 'https://tinyurl.com/27d7rnhu'
