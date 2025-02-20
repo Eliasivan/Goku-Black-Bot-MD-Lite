@@ -40,7 +40,7 @@ let { say } = cfonts
 
 console.log(chalk.bold.redBright(`\n✰ Iniciando Goku-Black-Bot-MD-Lite ✰\n`))
 
-say('Goku/nBlack/nBot/nMD/nLite', {
+say('GokuBlack/nBot/nMD/nLite', {
 font: 'block',
 align: 'center',
 colors: ['magentaBright']
