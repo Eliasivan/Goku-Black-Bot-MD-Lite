@@ -28,20 +28,20 @@ console.log(`Error : ${e}`)
 }}
   
 //creador y otros
-global.creador = 'Wa.me/584120346669'
+global.creador = 'Wa.me/595992667005'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
-global.asistencia = 'Wa.me/584120346669'
-global.namechannel = 'ᥫ᭡ ᥡᥙkіᑲ᥆𝗍-mძ - ᥙ⍴ძᥲ𝗍ᥱs ❀'
-global.namechannel2 = 'ᥫ᭡ ᥡᥙkіᑲ᥆𝗍-mძ - ᥲ᥎іs᥆s ❀"'
-global.namegrupo = '.•♫•♬• ʏᴜᴋɪ-ꜱᴜᴏᴜ-ʙᴏᴛ  •♬•♫•.'
-global.namecomu = '✿:･✧ 𝓨𝓾𝓴𝓲 𝓢𝓾𝓸𝓾 𝓒𝓸𝓶𝓾𝓷𝓲𝓽𝔂 ✧･:✿'
-global.listo = '🍬 *Aquí tienes ฅ^•ﻌ•^ฅ*'
-global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://files.catbox.moe/xr2m6u.jpg')
+global.asistencia = 'Wa.me/595992667005'
+global.namechannel = 'Goku-Black-Bot-MD-Lite - updates'
+global.namechannel2 = 'Goku-Black-Bot-MD-Lite - notify'
+global.namegrupo = 'Goku-Black-Bot-MD'
+global.namecomu = 'Goku-Black-Bot-MD-Lite - Comunity'
+global.listo = '☄ *Aquí tienes*'
+global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://telegra.ph/file/49baa73f0c2f42ad7e85b.png')
 
 //Ids channel
-global.idchannel = '120363343811229130@newsletter'
-global.canalIdM = ["120363322713003916@newsletter", "120363343811229130@newsletter"]
-global.canalNombreM = ["ᥫ᭡ ᥡᥙkіᑲ᥆𝗍-mძ - ᥙ⍴ძᥲ𝗍ᥱs ❀", "ᥫ᭡ ᥡᥙkіᑲ᥆𝗍-mძ - ᥲ᥎іs᥆s ❀"]
+global.idchannel = '120363276986902836@newsletter'
+global.canalIdM = ["120363276986902836@newsletter", "120363276986902836@newsletter"]
+global.canalNombreM = ["𝑮𝒐𝒌𝒖-𝑩𝒍𝒂𝒄𝒌-𝑩𝒐𝒕-𝑴𝑫 - 𝑳𝑰𝑻𝑬", "✰ 𝘨𝘰𝘬𝘶-𝘣𝘭𝘢𝘤𝘬 - 𝘯𝘰𝘵𝘪𝘧𝘺 ✰"]
 global.channelRD = await getRandomChannel()
 
 //fechas
@@ -59,26 +59,26 @@ global.done = '✅'
 global.error = '✖️'
 global.msm = '⚠️'
 
-//Emojis determinado de Yuki Bot
-global.emoji = '🍬'
-global.emoji2 = '🍭'
-global.emoji3 = '🍥'
-global.emoji4 = '🍫'
-global.emoji5 = '🎀'
+//Emojis determinado de Goku Black Bot
+global.emoji = '💥'
+global.emoji2 = '💫'
+global.emoji3 = '🍃'
+global.emoji4 = '🍁'
+global.emoji5 = '🌸'
 global.emojis = [emoji, emoji2, emoji3, emoji4].getRandom()
 
 //mensaje en espera
-global.wait = '🍭 Espera un momento, soy lenta...';
-global.waitt = '🍭 Espera un momento, soy lenta...';
-global.waittt = '🍭 Espera un momento, soy lenta...';
-global.waitttt = '🍭 Espera un momento, soy lenta...';
+global.wait = '✦ Espera un momento, soy lento...';
+global.waitt = '✦ Espera un momento, soy lento...';
+global.waittt = '✦ Espera un momento, soy lento...';
+global.waitttt = ' Espera un momento, soy lento...';
 
 //Enlaces
-var canal = 'https://whatsapp.com/channel/0029VapSIvR5EjxsD1B7hU3T'  
-let canal2 = 'https://whatsapp.com/channel/0029VavzewJLikg78gILRn1o'
-var git = 'https://github.com/The-King-Destroy'
-var github = 'https://github.com/The-King-Destroy/Yuki_Suou-Bot' 
-let correo = 'thekingdestroy507@gmail.com'
+var canal = 'https://whatsapp.com/channel/0029VaYh3Zm4dTnQKQ3VLT0h'  
+let canal2 = 'https://whatsapp.com/channel/0029VaYh3Zm4dTnQKQ3VLT0h'
+var git = 'https://github.com/Rayo-ofc'
+var github = '' 
+let correo = 'gb5126233@gmail.com'
 
 global.redes = [canal, canal2, git, github, correo].getRandom()
 
@@ -112,7 +112,7 @@ global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo
 }}, { quoted: m }
 
 global.icono = [
-'https://tinyurl.com/285a5ejf',
+'https://telegra.ph/file/49baa73f0c2f42ad7e85b.png',
 ].getRandom()
 
 global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: channelRD.id, serverMessageId: 100, newsletterName: channelRD.name, }, externalAdReply: { showAdAttribution: true, title: packname, body: dev, mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}
