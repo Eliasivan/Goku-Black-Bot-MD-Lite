@@ -38,9 +38,9 @@ const PORT = process.env.PORT || process.env.SERVER_PORT || 3000
 //let require = createRequire(megu)
 let { say } = cfonts
 
-console.log(chalk.bold.redBright(`\n✰ Iniciando Yuki-Suou-Bot ✰\n`))
+console.log(chalk.bold.redBright(`\n✰ Iniciando Goku-Black-Bot-MD-Lite ✰\n`))
 
-say('YukiBot-MD', {
+say('Goku/nBlack/nBot/nMD/nLite', {
 font: 'block',
 align: 'center',
 colors: ['magentaBright']
@@ -52,7 +52,7 @@ align: 'center',
 colors: ['redBright']
 })
 
-say(`Developed By • The-King-Destroy`, {
+say(`Power by Ivan`, {
 font: 'console',
 align: 'center',
 colors: ['blueBright']
@@ -278,7 +278,7 @@ if (opts['autocleartmp'] && (global.support || {}).find) (tmp = [os.tmpdir(), 't
 
 if (opts['server']) (await import('./server.js')).default(global.conn, PORT);
 
-let ppBot = 'https://telegra.ph/file/24fa902ead26340f3df2c.png'
+let ppBot = 'https://telegra.ph/file/49baa73f0c2f42ad7e85b.png'
 
 async function connectionUpdate(update) {
 const {connection, lastDisconnect, isNewLogin} = update;
@@ -295,7 +295,7 @@ if (opcion == '1' || methodCodeQR) {
 console.log(chalk.bold.yellow(`\n❐ ESCANEA EL CÓDIGO QR EXPIRA EN 45 SEGUNDOS`))}
 }
 if (connection == 'open') {
-console.log(chalk.bold.green('\n❀ YukiBot-MD Conectada ❀'))
+console.log(chalk.bold.green('\n GokuBlackBot-MD-Lite Conectado'))
 }
 let reason = new Boom(lastDisconnect?.error)?.output?.statusCode
 if (connection === 'close') {
