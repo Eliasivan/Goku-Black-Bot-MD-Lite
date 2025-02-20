@@ -4,13 +4,13 @@
 import fs from 'fs';
 
 const paths = {
-  YukiJadiBot: `./${jadi}/`,
-  YukiSession: `./${sessions}/`
+  BlackJadiBot: `./${jadi}/`,
+  BlackSession: `./${sessions}/`
 };
 
 function cleanSubbotDirectories() {
   for (const [name, path] of Object.entries(paths)) {
-    if (name === 'YukiSession') continue; // Skip SanSession for this function
+    if (name === 'BlackSession') continue; // Skip SanSession for this function
 
     fs.readdir(path, (err, subbotDirs) => {
       if (err) {
