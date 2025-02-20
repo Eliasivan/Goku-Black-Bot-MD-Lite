@@ -5,7 +5,7 @@ let handler = async (m, { conn, args }) => {
     let user = global.db.data.users[userId];
     let name = conn.getName(userId);
 
-    let perfil = await conn.profilePictureUrl(userId, 'image').catch(_ => 'https://files.catbox.moe/xr2m6u.jpg');
+    let perfil = await conn.profilePictureUrl(userId, 'image').catch(_ => '120363276986902836@newsletter');
 
     let _uptime = process.uptime() * 1000;
     let uptime = clockString(_uptime);
