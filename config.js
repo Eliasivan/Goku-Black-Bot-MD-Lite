@@ -42,21 +42,21 @@ global.blackJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '⪛✰ 𝐘𝐮𝐤𝐢-𝐒𝐮𝐨𝐮-𝐁𝐨𝐭 ✰⪜'
-global.botname = 'ᥡᥙkі-sᥙ᥆ᥙ-ᑲ᥆𝗍'
-global.wm = 'ৎ୭࠭͢𝐘𝐮𝐤𝐢_𝐒𝐮𝐨𝐮-𝐁𝐨𝐭ⷭ𓆪͟͞ '
-global.author = 'Made By ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
-global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
-global.textbot = 'Yυƙι-Sυσυ-Bσƚ • Powered By ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
-global.etiqueta = 'ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜'
+global.packname = 'ᧁׁᨵׁׅׅƙׁׅυׁׅ-֮ϐׁᥣׁׅ֪ɑׁׅᝯׁ֒ƙׁׅ-֮ϐׁᨵׁׅׅtׁׅ-ꩇׁׅ֪݊ ժׁׅ݊-ᥣׁׅ֪ꪱׁׁׁׅׅׅtׁׅꫀׁׅܻ݊'
+global.botname = 'g᥆kᥙ-ᑲᥣᥲᥴk-ᑲ᥆𝗍-mძ-ᥣі𝗍ᥱ'
+global.wm = 'ցօkմ-ճlαck-ճօԵ-ოժ-líԵҽ'
+global.author = 'թօաҽɾ ճվ íѵαղ'
+global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ íѵαղ'
+global.textbot = 'ɠσƙυ-Ⴆʅαƈƙ-Ⴆσƚ-ɱԃ • ρσɯҽɾ Ⴆყ ιʋαɳ'
+global.etiqueta = 'Ivan'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.moneda = 'Ki ⚡'
-global.welcom1 = '❍ Edita Con #setwelcome'
-global.welcom2 = '❍ Edita Con #setbye'
-global.banner = 'https://tinyurl.com/27d7rnhu'
-global.avatar = 'https://tinyurl.com/25ru293g'
+global.moneda = 'Ki'
+global.welcom1 = '○ Edita Con #setwelcome'
+global.welcom2 = '○ Edita Con #setbye'
+global.banner = 'https://telegra.ph/file/49baa73f0c2f42ad7e85b.png'
+global.avatar = 'https://telegra.ph/file/49baa73f0c2f42ad7e85b.png'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -65,20 +65,20 @@ global.photoSity = [catalogo]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.gp1 = 'https://chat.whatsapp.com/Ecz881bBgqPIWjDOaKkp7E'
-global.comunidad1 = 'https://chat.whatsapp.com/EwrwcGvpLf1BnMhP3B4axD'
-global.channel = 'https://whatsapp.com/channel/0029VapSIvR5EjxsD1B7hU3T'
-global.channel2 = 'https://whatsapp.com/channel/0029VavzewJLikg78gILRn1o'
-global.md = 'https://github.com/The-King-Destroy/Yuki_Suou-Bot'
-global.correo = 'thekingdestroy507@gmail.com'
-global.cn ='https://whatsapp.com/channel/0029VapSIvR5EjxsD1B7hU3T';
+global.gp1 = 'https://chat.whatsapp.com/DeJvBuS7QgB3Ybp1BZulWL'
+global.comunidad1 = 'https://chat.whatsapp.com/DeJvBuS7QgB3Ybp1BZulWL'
+global.channel = 'https://whatsapp.com/channel/0029VaYh3Zm4dTnQKQ3VLT0h'
+global.channel2 = 'https://whatsapp.com/channel/0029VaYh3Zm4dTnQKQ3VLT0h'
+global.md = ''
+global.correo = 'gb5126233@gmail.com'
+global.cn = 'https://whatsapp.com/channel/0029VaYh3Zm4dTnQKQ3VLT0h';
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: packname, orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
 global.ch = {
-ch1: '120363343811229130@newsletter',
-ch2: '120363322713003916@newsletter',
+ch1: '120363276986902836@newsletter',
+ch2: '120363276986902836@newsletter',
 }
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
