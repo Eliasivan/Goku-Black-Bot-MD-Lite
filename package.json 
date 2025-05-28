@@ -1,17 +1,26 @@
 {
   "name": "Goku-Black-Bot-MD-Lite",
   "version": "1.0.0",
-  "description": "Goku Black Bot MD Lite creado por Ivan.",
+  "description": "Un bot ligero para WhatsApp basado en Node.js.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "session": "node main.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ivan",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Eliasivan/Goku-Black-Bot-MD-Lite.git"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "nodejs",
+    "baileys"
+  ],
+  "author": "Eliasivan",
   "license": "MIT",
   "dependencies": {
-    "@whiskeysockets/baileys": "^4.4.0",
-    "chalk": "^5.2.0",
-    "readline": "^1.3.0"
+    "chalk": "^5.0.0",
+    "awesome-phonenumber": "^2.0.0"
   }
 }
